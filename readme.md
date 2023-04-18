@@ -6,10 +6,10 @@ If the number is not divisible by 3 or 5, the algorithm simply prints out the nu
 
 The objective is broken down to:
 
-Print the numbers from 1 to 100
+1. Print the numbers from 1 to 100
 
-For multiples of 3, print "Fizz" instead of the number
+2. For multiples of 3, print "Fizz" instead of the number
 
-For multiples of 5, print "Buzz"
+3. For multiples of 5, print "Buzz"
 
-For a number that is a multiple of both 3 and 5, print "FizzBuzz"
+4. For a number that is a multiple of both 3 and 5, print "FizzBuzz"
